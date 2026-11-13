@@ -22,8 +22,6 @@ class Himanshu:
         self.learning = ["Machine Learning", "Cybersecurity Basics"]
         self.motto = "Learn. Build. Repeat."
 
-    def status(self):
-        return "Leveling up every day 🚀"
 ```
 
 ---
@@ -40,8 +38,8 @@ class Himanshu:
 
 | Focus | What I'm exploring |
 |---|---|
-| 🤖 **AI / ML** | Machine learning, neural networks, Python libraries |
-| 🔐 **Cybersecurity** | Network security, ethical hacking basics, secure coding |
+| **AI / ML** | Machine learning, neural networks, Python libraries |
+| **Cybersecurity** | Network security, ethical hacking basics, secure coding |
 
 ### 📫 Let's Connect
 
