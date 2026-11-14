@@ -26,13 +26,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/8b8fe0" height="16" alt="" /> Git
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/8b8fe0" height="16" alt="" /> Docker
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/8b8fe0" height="16" alt="" /> PyTorch
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/8b8fe0" height="16" alt="" /> TensorFlow
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/8b8fe0" height="16" alt="" /> Kali Linux
 </p>
 
 <br/>
