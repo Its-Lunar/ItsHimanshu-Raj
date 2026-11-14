@@ -1,26 +1,19 @@
+<div align="center">
+
 # Himanshu Raj
 
-BCA student building desktop software, exploring systems & cybersecurity.
+BCA Student · Building & Exploring
 
-Founder of [The Lunar Org](https://github.com/The-Lunar-Org). Currently working on [Specter](https://github.com/The-Lunar-Org/be-safe).
+[![The Lunar Org](https://img.shields.io/badge/The--Lunar--Org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-Lunar-Org)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1tsRaj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1tsraj)
 
----
-
-### Projects
-
-- **[Specter](https://github.com/The-Lunar-Org/be-safe)** — Desktop privacy and system security app built with Rust, TypeScript, and Tauri / Electron.
-
----
+<br>
 
 ### Tech
 
-Python, Rust, TypeScript, JavaScript, Git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
 
----
-
-### Contact
-
-- GitHub: [@ItsHimanshu-Raj](https://github.com/ItsHimanshu-Raj)
-- Org: [The Lunar Org](https://github.com/The-Lunar-Org)
-- X: [@1tsRaj](https://x.com/1tsRaj)
-- Instagram: [@1tsraj](https://instagram.com/1tsraj)
+</div>
