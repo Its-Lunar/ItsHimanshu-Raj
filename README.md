@@ -18,31 +18,31 @@
 <h6 align="center">STACK</h6>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/8b8fe0" height="30" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/8b8fe0" height="30" alt="Bash" title="Bash" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/8b8fe0" height="30" alt="Linux" title="Linux" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/8b8fe0" height="30" alt="Git" title="Git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/8b8fe0" height="30" alt="Docker" title="Docker" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/8b8fe0" height="30" alt="PyTorch" title="PyTorch" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/8b8fe0" height="30" alt="TensorFlow" title="TensorFlow" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/8b8fe0" height="30" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/python/8b8fe0" height="16" alt="" /> Python
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/8b8fe0" height="16" alt="" /> Bash
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/8b8fe0" height="16" alt="" /> Linux
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/8b8fe0" height="16" alt="" /> Git
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/8b8fe0" height="16" alt="" /> Docker
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/8b8fe0" height="16" alt="" /> PyTorch
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/8b8fe0" height="16" alt="" /> TensorFlow
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/8b8fe0" height="16" alt="" /> Kali Linux
 </p>
 
 <br/>
 
-<h6 align="center">CONNECT</h6>
+<h6 align="center">LINKS</h6>
 
 <p align="center">
-  <a href="https://github.com/The-Lunar-Org"><img src="https://cdn.simpleicons.org/github/8b8fe0" height="24" alt="The Lunar Org" title="The Lunar Org" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/1tsRaj"><img src="https://cdn.simpleicons.org/x/8b8fe0" height="24" alt="X" title="X" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/1tsraj"><img src="https://cdn.simpleicons.org/instagram/8b8fe0" height="24" alt="Instagram" title="Instagram" /></a>
+  <a href="https://github.com/The-Lunar-Org"><img src="https://cdn.simpleicons.org/github/8b8fe0" height="16" alt="" /> The Lunar Org</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/1tsRaj"><img src="https://cdn.simpleicons.org/x/8b8fe0" height="16" alt="" /> X</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/1tsraj"><img src="https://cdn.simpleicons.org/instagram/8b8fe0" height="16" alt="" /> Instagram</a>
 </p>
