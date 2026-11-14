@@ -1,4 +1,4 @@
-<h1 align="center">Himanshu Raj</h1>
+<h1 align="center">L U N A R</h1>
 
 <p align="center">
   AI Developer &nbsp;|&nbsp; Cybersecurity Enthusiast &nbsp;|&nbsp; <a href="https://github.com/The-Lunar-Org">The Lunar Org</a>
@@ -33,9 +33,9 @@
 <h6 align="center">LINKS</h6>
 
 <p align="center">
-  <a href="https://github.com/The-Lunar-Org"><img src="https://cdn.simpleicons.org/github/8b8fe0" height="16" alt="" /> The Lunar Org</a>
+  <a href="https://github.com/The-Lunar-Org"><img src="https://cdn.simpleicons.org/github/8b8fe0" height="16" alt="" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/1tsRaj"><img src="https://cdn.simpleicons.org/x/8b8fe0" height="16" alt="" /> X</a>
+  <a href="https://x.com/1tsRaj"><img src="https://cdn.simpleicons.org/x/8b8fe0" height="16" alt="" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/1tsraj"><img src="https://cdn.simpleicons.org/instagram/8b8fe0" height="16" alt="" /> Instagram</a>
+  <a href="https://instagram.com/1tsraj"><img src="https://cdn.simpleicons.org/instagram/8b8fe0" height="16" alt="" /></a>
 </p>
