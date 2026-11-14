@@ -1,38 +1,39 @@
-<div align="center">
+# Himanshu Raj
 
-# HIMANSHU RAJ
+Systems and security engineer building low-overhead desktop defense, hardened process enclaves, and private networking infrastructure in Rust.
 
-Systems & Security Researcher · Founder, [The Lunar Org](https://github.com/The-Lunar-Org)
-
-```
-[ Rust ]   [ TypeScript ]   [ Win32 API ]   [ WireGuard ]   [ Zero-Trust ]
-```
+Founder of [The Lunar Org](https://github.com/The-Lunar-Org). Currently: engineering **Specter**, a zero-trust endpoint containment runtime with kernel-level packet inspection, Windows Job Object sandboxing, and userspace WireGuard mesh routing.
 
 ---
 
-### / PRIMARY FOCUS
+## Systems & Architecture
 
-Building hardened client defenses, process containment enclaves, and zero-telemetry architectures.
-
-* **[Specter](https://github.com/The-Lunar-Org/be-safe)** — Zero-trust Windows endpoint defense & isolation runtime.
-* **Low-Level Systems** — Win32 Job Objects, authenticated named pipes, and anti-tamper heuristics.
-* **Network Privacy** — Userspace WireGuard tunneling and encrypted DNS-over-HTTPS resolution.
-
----
-
-### / SYSTEM TELEMETRY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ItsHimanshu-Raj&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=E2E8F0&icon_color=64748B&text_color=94A3B8" alt="GitHub Metrics" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsHimanshu-Raj&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8" alt="Language Distribution" width="48%" />
-
-<br><br>
+- **Endpoint containment:** Windows Job Object confinement, suspended-spawn process interception, token deprivation, and dynamic descendant tracking.
+- **Encrypted transport & networking:** Userspace WireGuard tunnels, DNS-over-HTTPS resolution, and active egress route verification.
+- **Local IPC & authorization:** Named pipes protected by per-user security descriptors (DACLs) and constant-time caller executable hash verification.
+- **Security primitives:** DPAPI-backed encrypted credential vaults, Authenticode binary signature enforcement, and zero-telemetry operational security.
 
 ---
 
-### / CHANNELS
+## Shipped Work
 
-[GitHub](https://github.com/ItsHimanshu-Raj) &nbsp;·&nbsp; [The Lunar Org](https://github.com/The-Lunar-Org) &nbsp;·&nbsp; [X / Twitter](https://x.com/1tsRaj)
+**[Specter](https://github.com/The-Lunar-Org/be-safe)**
+Hardened client defense runtime. Implements hardware identity virtualization, background sensor gates (microphone/camera/clipboard), and isolated application enclaves with continuous integrity tripwires. Built with a Rust enforcement core and a lightweight Tauri shell.
 
-</div>
+**[Cloudflare Update Proxy](https://github.com/The-Lunar-Org/be-safe/tree/specter-rewrite/infra/cloudflare-update-worker)**
+An authenticated edge worker proxying signed release assets, update manifests, and differential binary payloads from private GitHub infrastructure directly to desktop clients.
+
+---
+
+## Core Stack
+
+Rust, C, TypeScript, Tauri, Win32 API, WireGuard, PowerShell, GitHub Actions CI/CD
+
+---
+
+## Contact
+
+- Org: [The Lunar Org](https://github.com/The-Lunar-Org)
+- GitHub: [@ItsHimanshu-Raj](https://github.com/ItsHimanshu-Raj)
+- X: [@1tsRaj](https://x.com/1tsRaj)
+- Web: [1tsraj.workers.dev](https://1tsraj.workers.dev)
